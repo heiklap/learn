@@ -1,0 +1,15 @@
+name: learn
+description: Collecting tip-learn-points of Dart libraries or applications.
+version: 0.0.1
+author: Heikki K Lappalainen <email@example.com>
+homepage: https://dawopack.blogspot.fi/
+
+environment:
+     sdk: '>=1.21.0 <2.0.0'
+
+dependencies:
+  async: any
+  redux_epics: any
+
+dev_dependencies:
+  test: "^0.12.24+2"
